@@ -1,0 +1,10 @@
+package pc;
+
+public class Car1 {
+	private int num;
+	private double gas;
+	public Car1() {
+		
+		
+	}
+}
